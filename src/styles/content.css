@@ -1,6 +1,6 @@
 @import url(./components/post.css);
 
 .blog-content {
-  margin-top: 4rem;
+  margin: 4rem 0 2rem 0;
   width: 100%;
 }

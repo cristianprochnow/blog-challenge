@@ -6,6 +6,10 @@
   box-shadow: 0 0 1px 0 rgba(19, 19, 31, 0.05);
 }
 
+.post + .post {
+  margin-top: 1.6rem;
+}
+
 .post header {
   display: flex;
   align-items: center;
