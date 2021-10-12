@@ -1,10 +1,4 @@
-:root {
-  --background: #F3F5F7;
-  --white: #FFF;
-  --title: #313131;
-  --text: #B6B6B6;
-  --gradient: linear-gradient(90deg, #574AE8 0%, #3EA1DB 100%);
-}
+@import url(./variables.css);
 
 * {
   margin: 0;
@@ -21,6 +15,7 @@ html {
 
 button, input {
   font: 500 1.6rem 'Inter', sans-serif;
+  color: var(--white);
 }
 
 .page-wrapper {

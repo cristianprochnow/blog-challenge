@@ -1,0 +1,8 @@
+:root {
+  --background: #F3F5F7;
+  --white: #FFF;
+  --title: #313131;
+  --text: #B6B6B6;
+  --gradient: linear-gradient(90deg, #574AE8 0%, #3EA1DB 100%);
+  --primary: #574AE8;
+}
