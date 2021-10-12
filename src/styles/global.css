@@ -1,0 +1,30 @@
+:root {
+  --background: #F3F5F7;
+  --white: #FFF;
+  --title: #313131;
+  --text: #B6B6B6;
+  --gradient: linear-gradient(90deg, #574AE8 0%, #3EA1DB 100%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 62.5%;
+  min-height: 100vh;
+  background-color: var(--background);
+}
+
+button, input {
+  font: 500 1.6rem 'Inter', sans-serif;
+}
+
+.page-wrapper {
+  width: 90vw;
+  max-width: 900px;
+  margin: 0 auto;
+}
