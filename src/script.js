@@ -15,7 +15,7 @@ function getPost(data) {
     <article class="post">
       <header>
         <span>${data.date}</span>
-        <img src="./assets/heart.svg" alt="Favorite icon">
+        <img src="./src/assets/heart.svg" alt="Favorite icon">
       </header>
 
       <main>
